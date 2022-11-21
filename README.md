@@ -12,7 +12,7 @@
 <p align="center"><strong>Loading portifólio...</strong></p>
 
 ------------------
-#### Bem vindo! me chamo Vitor, aprecio a tecnologia em geral,  atualmente focado em Front-end,  objetivo Full-Stack, fascinado por desenvolvimento de jogos e os jogos em si e padrões. Atualmente cursando superior em análise e desenvolvimento de sistemas, além de cursos paralelos em outras plataformas.
+#### Aprecio a tecnologia em geral, atualmente focado em Front-end, objetivo Full-Stack, fascinado também por desenvolvimento de jogos e os jogos em si e padrões de projeto. Atualmente cursando superior em análise e desenvolvimento de sistemas, além de cursos paralelos em outras plataformas de tecnologia.
 
 
 
