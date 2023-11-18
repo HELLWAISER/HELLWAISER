@@ -67,7 +67,7 @@
 
 <img src="https://i.imgur.com/fCMQZXt.png" width="40px" height="40px">
 
-<img src="./img" width="100px" height="60px">
+<img src="https://github.com/HELLWAISER/HELLWAISER/blob/master/img/reactJS-wallpaper.png" width="50px" height="50px">
 
 
 ---------------
