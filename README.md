@@ -6,7 +6,7 @@
 </div>
 -->
 <div align="center">
-<img src="https://i.imgur.com/M6fhtDb.gif" position="center" width="50px" height="50px"  >
+<img src="https://i.imgur.com/M6fhtDb.gif" position="center" width="50px" height="40px"  >
 </div>
 
 <p align="center"><strong>Loading portifólio...</strong></p>
