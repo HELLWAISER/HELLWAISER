@@ -67,6 +67,8 @@
 
 <img src="https://i.imgur.com/fCMQZXt.png" width="40px" height="40px">
 
+<img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" width="100px" height="60px">
+
 
 ---------------
 <img src="https://i.imgur.com/hNuUrSo.gif" width="60px" height="70px">
