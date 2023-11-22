@@ -12,7 +12,7 @@
 <p align="center"><strong>Loading portifólio...</strong></p>
 
 ------------------
-#### Aprecio a tecnologia em geral, foco atual em Front-end, objetivo Full-Stack, fascinado também por desenvolvimento de jogos. Cursando superior em análise de sistemas, além de cursos paralelos em outras plataformas de tecnologia.
+#### Cursando superior em análise e desenvolvimento de sistemas 3° semestre, aprecio a tecnologia de forma geral, atualmente focado em tudo que posso aprender sobre Front-end, objetivo Full-Stack. Fascinado também por desenvolvimento de jogos e Cyber Security, estudo tecnologia muito antes da faculdade por plataformas on-line como Udemy entre outras.
 
 
 
