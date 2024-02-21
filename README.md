@@ -12,11 +12,12 @@
 <p align="center"><strong>Loading portifólio...</strong></p>
 
 ------------------
-## Cursando último semestre em análise e desenvolvimento de sistemas, sólidos conhecimentos em frontend, no momento estudando backend. Fascinado por desenvolvimento de jogos e Cyber Security, estudo tecnologia muito antes da faculdade por plataformas on-line como Udemy, Coursera entre outras. Próximos passos CompTIA Network+, cyber entre outras + pós.
+### Cursando último semestre em análise e desenvolvimento de sistemas, sólidos conhecimentos em frontend, no momento estudando backend. Fascinado por desenvolvimento de jogos e Cyber Security, estudo tecnologia muito antes da faculdade por plataformas on-line como Udemy, Coursera entre outras. Próximos passos CompTIA Network+, cyber entre outras + pós.
+
+
 
 #### "Não tenho nenhum talento especial, sou apaixonadamente curioso"
 ### - Albert Einsten
-
 #### "O conhecimento é a única coisa que ninguém pode tirar de você.” 
 ### – B.B. King
 
