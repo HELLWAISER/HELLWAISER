@@ -12,7 +12,7 @@
 <p align="center"><strong>Loading portifólio...</strong></p>
 
 ------------------
-### Formado em Análise e desenvolvimento de sistemas, sólidos conhecimentos em frontend, estudando backend, aprecio desenvolvimento de jogos e Cyber Security.
+### Formado em Análise e desenvolvimento de sistemas, cursando engenharia da computação, sólidos conhecimentos em frontend, estudando backend e eletrônica. 
 
 #### "O conhecimento é a única coisa que ninguém pode tirar de você.” 
 ### – B.B. King
